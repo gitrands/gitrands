@@ -1,9 +1,3 @@
-Got you — let’s make it **fun, bold, personality-driven, and GitHub-worthy**, not a corporate résumé.
-
-Here’s an **innovative, energetic, developer-vibe README** designed to *feel alive* and *stand out*:
-
----
-
 # 👾 Hey, I’m **Jeeva** — I Build Things That Don’t Crash (Usually)
 
 > 💭 *“Backend dev with frontend opinions, AWS addiction, and a habit of over-engineering side projects.”*
@@ -19,19 +13,6 @@ Welcome to my GitHub — where microservices talk to each other more than I talk
 * 🌩️ **Deploy to AWS like it’s my second home**
 * 🎨 **Build UIs in React/Next.js that don’t look like 2008**
 * 🧠 **Pretend I didn’t write that bug**
-
----
-
-## 🛠️ My Tech-Stack Moodboard
-
-```
-Java | Spring Boot | Microservices | RabbitMQ  
-React | Next.js | Node.js | Express  
-AWS | Docker | GitHub Actions | DynamoDB  
-MySQL | MongoDB | PostgreSQL  
-```
-
-Basically: If it runs on the cloud and logs errors, I’ve touched it.
 
 ---
 
