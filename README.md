@@ -21,9 +21,9 @@
 
 ### 👨‍💻 About Me
 
-[cite_start]I am a **Backend Developer** and an **Integrated M.Tech student** in Computer Science (Data Science) at **VIT, Vellore**[cite: 47, 48]. 
+I am a **Backend Developer** and an **Integrated M.Tech student** in Computer Science (Data Science) at **VIT, Vellore**. 
 
-[cite_start]My expertise lies in architecting domain-driven **Spring Boot microservices** that scale seamlessly from prototype to production[cite: 6, 19]. [cite_start]I leverage event-driven architecture and cloud-native solutions to create reliable, high-performance systems[cite: 7].
+My expertise lies in architecting domain-driven **Spring Boot microservices** that scale seamlessly from prototype to production[cite: 6, 19]. [cite_start]I leverage event-driven architecture and cloud-native solutions to create reliable, high-performance systems.
 
 - 🔭 I’m currently working on **Cloud-Native Microservices**
 - 🤝 I’m open to collaborating on **Java, Spring Boot, and AWS projects**
@@ -42,27 +42,7 @@
 
 </div>
 
----
 
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| [cite_start]**Fino Saloon** [cite: 15] | [cite_start]**Online Salon Booking Microservices**<br>• Architected domain-driven microservices (Booking, User, Catalog).<br>• Implemented **RabbitMQ** for async messaging and **Feign Client** for communication[cite: 19, 20, 22]. | ![Spring](https://img.shields.io/badge/-Spring%20Boot-green) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-orange) ![Microservices](https://img.shields.io/badge/-Microservices-blue) |
-| [cite_start]**Fino Organizer** [cite: 23] | [cite_start]**Project Management Platform**<br>• End-to-end task tracking with Kanban boards & RBAC.<br>• Automated **CI/CD with AWS Amplify** and containerized on EC2[cite: 27, 28]. | ![NextJS](https://img.shields.io/badge/-NextJS-black) ![AWS](https://img.shields.io/badge/-AWS-232F3E) ![Docker](https://img.shields.io/badge/-Docker-blue) |
-| [cite_start]**Fino Learn** [cite: 30] | [cite_start]**Serverless Learning Platform**<br>• Scalable storage using **DynamoDB** and **S3**.<br>• Serverless APIs built on **AWS Lambda**[cite: 36, 37]. | ![Lambda](https://img.shields.io/badge/-Lambda-orange) ![DynamoDB](https://img.shields.io/badge/-DynamoDB-blue) ![NextJS](https://img.shields.io/badge/-NextJS-black) |
-
----
-
-
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gitrands&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
----
 
 <div align="center">
   <p><i>"Quality is not an act, it is a habit."</i></p>
