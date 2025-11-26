@@ -2,7 +2,7 @@
  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Hi,+I'm+Jeeva+R.+A.;Backend+Developer;Spring+Boot+Expert;Cloud+Native+Enthusiast" alt="Typing SVG" />
 
-  <h3><i>"Building tomorrow's backend infrastructure today."</i></h3>
+  <h3><i>"Building some interesting stuff....."</i></h3>
 
   <p>
     <a href="https://linkedin.com/in/jeeva-ra/" target="_blank">
@@ -54,15 +54,7 @@
 
 ---
 
-### ⚡ GitHub Stats
 
-<div align="center">
-
-![Jeeva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitrands&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gitrands&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
-
-</div>
 
 <br/>
 
